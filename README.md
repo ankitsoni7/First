@@ -1,1 +1,3 @@
-.updated readme
+whatsup
+.updated readeee
+git statu
